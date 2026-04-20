@@ -1,0 +1,6 @@
+{
+  "name": "Clothing Factory & Retail Dashboard",
+  "description": "Internal management dashboard for a clothing business. Manages products, raw materials, finished goods, user roles, logs, and analytics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
